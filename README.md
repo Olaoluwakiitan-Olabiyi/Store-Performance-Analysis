@@ -18,6 +18,5 @@ The dataset consists of the following variables;
 7. Revenue: The revenue generated from each store.
 8. ROMI: This is the return on marketing investment and was calculated using the Tableau calculated field.
 
-Click here for the insights and to interact with the story https://public.tableau.com/views/StorePerformanceAnalysis_16769138498090/StorePerformanceAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
+Click here for the full insights and to interact with the story https://public.tableau.com/views/StorePerformanceAnalysis_16769138498090/StorePerformanceAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-Read the full article here>>> https://medium.com/@olaoluwakiitan-o-olabiyi/store-performance-analysis-9c05cca4f7d4
